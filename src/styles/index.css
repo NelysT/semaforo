@@ -20,7 +20,7 @@
     width: 100px;
     height:100px;
     border-radius: 50%;
-    background-color: beige;
+    background-color: blue;
 }
 .red {
     background: red;
@@ -32,5 +32,14 @@
     background: green;
 }
 .glow {
-    box-shadow: 0px 0px 9px 4px blueviolet ;
+    box-shadow: 0 0 70px white;
+}
+.semaforo {
+    border-radius: 25px;
+    width: 119px;
+    background: black;
+    padding: 10px;
+    display: block;
+    margin: 65px auto;
+
 }
